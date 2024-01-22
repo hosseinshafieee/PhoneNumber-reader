@@ -1,0 +1,10 @@
+keras==2.10.0
+mltu==1.0.12
+numpy==1.24.3
+opencv_python==4.7.0.72
+Pillow==9.5.0
+Pillow==9.0.1
+Pillow==10.2.0
+python_bidi==0.4.2
+tensorflow==2.10.1
+tqdm==4.65.0
